@@ -1,7 +1,5 @@
 # Welcome to Stellax Tech 👋
 
-![Stellax Logo](./stellax-logo.png)
-
 ### 🚀 About Us
 StellaX Technologies is an innovative AI technology startup dedicated to building cutting-edge solutions that empower businesses and individuals. From scalable machine learning applications to next-gen AI tools, we are at the forefront of tech innovation.
 
